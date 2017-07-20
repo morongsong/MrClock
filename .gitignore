@@ -1,0 +1,15 @@
+/_Build
+/Bin
+/Lib
+
+**.ipch
+**.aps
+**.opensdf
+**.sdf
+**.suo
+**.ncb
+**.user
+**.vcxproj*
+**.pch
+**.vcproj*
+**.vc.db*
